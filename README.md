@@ -1,2 +1,1 @@
-These are the assignments from Applied Programming Lab EE2703 Assignments, IITM.
-It is a python course offered to the BTech Students at IITM in their Second Year.
+A collection of programs and reports pertaining to the problem statements assigned as part of the course EE2703 - Applied Programming Lab in the Fall 2024 (July - November 2024) semester at IIT Madras
